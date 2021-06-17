@@ -1,0 +1,16 @@
+.welcome-title {
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 7vmax;
+}
+
+.welcome-button {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60vh;
+  height: 30vh;
+  font-size: 3vmax;
+  border-radius: 10px;
+  cursor: pointer;
+}
